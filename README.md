@@ -38,8 +38,19 @@
 </div>
 
 
-### 💻
+### 💻 Important Projects
 
+<div align="center">
+
+| **📦 Локальный Devops контур** | **⚙️ KyNa** | 
+|---|---|
+|  локальный DevOps контур вокруг k3s-кластера| Платформа для автоматического развёртывания<br> инфраструктуры  по заданным параметрам | 
+| [➡️ GitHub](https://github.com/grooptroop/local_DevOps_circuit) | [➡️ GitHub](https://github.com/grooptroop/KyNa) | 
+| `K3S` `MetalLB` `Docker-registry` <br>`Gieta` `Drone CI` `Prometheus`<br> `Grafana` | `Go` `k3s` `Helm` <br> `ansible`  `metalLB` `postgres`| 
+
+</div>
+
+###
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grooptroop/grooptroop/refs/heads/output/github-contribution-grid-snake-dark.svg" />
