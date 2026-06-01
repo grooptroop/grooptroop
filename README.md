@@ -1,4 +1,4 @@
-<h1 align="center"> 🐳Vsevolod - devops engener </h1>
+<h1 align="center"> 🐳Vsevolod - devops engineer </h1>
 
 ### 🐋 stack
 
